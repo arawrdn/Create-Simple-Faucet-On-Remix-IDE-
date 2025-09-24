@@ -1,0 +1,11 @@
+base-token-faucet/
+│
+├─ contracts/
+│   ├─ Faucet.sol         # Smart contract Faucet
+│
+├─ scripts/
+│   ├─ deploy.js          # Optional script untuk deploy
+│
+├─ README.md              # Panduan lengkap deploy di Remix
+│
+└─ .gitignore
